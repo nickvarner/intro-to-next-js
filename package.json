@@ -1,0 +1,26 @@
+{
+  "name": "15-intro-to-next",
+  "version": "1.0.0",
+  "description": "introduction to next-js react framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickvarner/intro-to-next-js.git"
+  },
+  "author": "nick varner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickvarner/intro-to-next-js/issues"
+  },
+  "homepage": "https://github.com/nickvarner/intro-to-next-js#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
